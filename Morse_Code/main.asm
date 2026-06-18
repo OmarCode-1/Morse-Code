@@ -145,7 +145,7 @@ each_element:
     movzx   rbx, ax        
 
     mov rcx, morseTable
-    add rcx, rbx             ; each +5 is an element 0, 5, 10
+    add rcx, rbx             
 	mov r8d, 4
 	call print_it
 

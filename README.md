@@ -143,10 +143,4 @@ morse-asm/
 
 ---
 
-## 📜 License
-
-MIT — free to use, study, and learn from.
-
----
-
 > *"To understand the enemy's code, you must first write your own."*

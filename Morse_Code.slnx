@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Morse_Code/Morse_Code.vcxproj" Id="abf256fe-d90e-4a9a-8b5f-bb4d790d32f9" />
+</Solution>
